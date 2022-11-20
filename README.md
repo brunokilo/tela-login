@@ -34,3 +34,5 @@ https://github.com/brunokilo
 
 
 # Agradecimentos
+
+Agradecimentos ao professor Diego pelos conhecimentos passados na UC de desenvolvimento web.
